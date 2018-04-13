@@ -19,6 +19,7 @@ module.exports = {
       'after': true
     }],
     'no-var': 'error',
+    'no-return-await': 'error',
     'no-useless-rename': 'error',
     'object-shorthand': ['error', 'always'],
     'prefer-destructuring': 'error',
